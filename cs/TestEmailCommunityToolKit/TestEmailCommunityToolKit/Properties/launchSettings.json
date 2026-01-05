@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestEmailCommunityToolKit (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TestEmailCommunityToolKit (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

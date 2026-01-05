@@ -1,0 +1,12 @@
+
+{"issuer": "VISA",
+"cardNumber": "4909838895820576",
+"expiryMonth": "02",
+"expiryYear": "25",
+"exp": "02/25",
+"cvv": "402",
+"name": "Rexferd",
+"address": "6601 West Ocotillo Road",
+"country": "Hong Kong",
+"zipcode": "604",
+"cardgenerator": "https://cardgenerator.org/"}
